@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Montserrat:wght@300&family=Poppins&family=Roboto&display=swap');
+
+*{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+  font-family: Montserrat;
+}
+
+body{ 
+  background-color: rgb(69, 140, 211);
+  height: 100vh;
+}

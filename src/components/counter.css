@@ -1,0 +1,17 @@
+.counter-number{
+    background-color: #000;
+    color: #fff;
+    height: 5vh;
+
+    padding:1rem;
+    border-radius: 5px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text{
+    margin: 1.6rem;
+}
+
